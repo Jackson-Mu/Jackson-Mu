@@ -15,7 +15,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Did you know that the first computer virus was created in 1983 and was called the "Elk Cloner"? It infected Apple II systems via floppy disks!
+⚡ Fun fact: Data scientists often use the term "feature engineering" to describe the process of selecting and transforming variables to improve model performance. It's akin to crafting the perfect tools for mining insights from data!
 
 <!---
 Jackson-Mu/Jackson-Mu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
