@@ -1,6 +1,6 @@
 🌟 Welcome to Jackson-Mu/Jackson-Mu! 🌟
 
-👋 Hi, I’m Jackson Mukeshimana, a passionate Data Science Enthusiast.
+👋 Hi, I’m Jackson, a passionate Data Science Enthusiast.
 
 👀 I’m interested in exploring the fascinating world of data science and uncovering insights that drive meaningful change.
 
