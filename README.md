@@ -10,7 +10,6 @@
 
 📫 How to reach me:
 
-   - Email: jackson.mukeshimana@nyu.edu
    - Email: mukesjackson02@gmail.com
 
 😄 Pronouns: He/Him
