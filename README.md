@@ -14,7 +14,7 @@
 
 😄 Pronouns: He/Him
 
-#🌍 Fun fact: Just like how you use different ingredients to bake a delicious cake, scientists use data to understand our world better!
+🌍 Fun fact: Just like how you use different ingredients to bake a delicious cake, scientists use data to understand our world better!
 
 
 ## Created Streamlit App Link
