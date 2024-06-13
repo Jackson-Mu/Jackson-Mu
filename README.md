@@ -14,7 +14,8 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Data scientists often use the term "feature engineering" to describe the process of selecting and transforming variables to improve model performance. It's akin to crafting the perfect tools for mining insights from data!
+#🌍 Fun fact: Just like how you use different ingredients to bake a delicious cake, scientists use data to understand our world better!
+
 
 ## Created Streamlit App Link
 
