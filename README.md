@@ -16,6 +16,19 @@
 
 ⚡ Fun fact: Data scientists often use the term "feature engineering" to describe the process of selecting and transforming variables to improve model performance. It's akin to crafting the perfect tools for mining insights from data!
 
+## Created Streamlit App Link
+
+Check it out on Streamlit app [here](https://fifa2022quatarpy-l9aocsw6pzmcuwnfap5hnw.streamlit.app/).
+
+## Also to be found on Hugging Face
+
+Check out our Hugging Face link too [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
+
+
+
+
+
+
 <!---
 Jackson-Mu/Jackson-Mu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
