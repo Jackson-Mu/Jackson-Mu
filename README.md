@@ -1,4 +1,4 @@
-🌟 Welcome to Jackson-Mu/Jackson-Mu! 🌟
+🌟 Welcome to Jackson-Mu! 🌟
 
 👋 Hi, I’m Jackson, a passionate Data Science Enthusiast.
 
