@@ -1,12 +1,14 @@
-🌟 Welcome to Jackson-Mu! 🌟
 
-👋 Hi, I’m Jackson, a passionate Data Science Enthusiast.
+```markdown
+🌟 Welcome to Jackson Github Page! 🌟
 
-👀 I’m interested in exploring the fascinating world of data science and uncovering insights that drive meaningful change.
+👋 Hi there! I’m Jackson, an enthusiastic explorer in the realms of Data Science, Software Engineering, and Sales Engineering. I thrive on the challenge of turning data into actionable insights and building robust software solutions.
 
-🌱 I’m currently learning advanced machine learning techniques and diving deep into data visualization methods to enhance storytelling through data.
+👀 My interests span across the dynamic fields of data science, software engineering, and sales engineering. I am driven by the desire to uncover insights and develop solutions that foster meaningful change.
 
-💞️ I’m looking to collaborate on projects that leverage data to solve real-world problems and make a positive impact on society.
+🌱 Currently, I’m diving deep into advanced machine learning techniques and data visualization methods to enhance storytelling through data. Simultaneously, I'm honing my software engineering skills to build innovative applications.
+
+💞️ I’m eager to collaborate on projects that blend data science and software engineering to tackle real-world problems and make a positive impact on society.
 
 📫 How to reach me:
 
@@ -14,23 +16,12 @@
 
 😄 Pronouns: He/Him
 
-🌍 Fun fact: Just like how you use different ingredients to bake a delicious meal, Data scientists use data to understand our world better!
-
+🌍 Fun fact: Just like a chef combines ingredients to create a culinary masterpiece, I combine data and code to craft solutions that help us understand and improve our world!
 
 ## Created Streamlit App Link
 
-Check it out on Streamlit app [here](https://fifa2022quatarpy-l9aocsw6pzmcuwnfap5hnw.streamlit.app/).
+Check out my Streamlit app [here](https://fifa2022quatarpy-l9aocsw6pzmcuwnfap5hnw.streamlit.app/).
 
 ## Also to be found on Hugging Face
 
-Check out our Hugging Face link too [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
-
-
-
-
-
-
-<!---
-Jackson-Mu/Jackson-Mu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Explore my Hugging Face space [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
