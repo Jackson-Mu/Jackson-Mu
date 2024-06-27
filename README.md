@@ -17,12 +17,14 @@
 🌍 Fun fact: Just like a chef combines ingredients to create a culinary masterpiece, I combine data and code to craft solutions that help us understand and improve our world!
 
 
-## Created Streamlit App Link
-
-Check it out on Streamlit app [here](https://fifa2022quatarpy-l9aocsw6pzmcuwnfap5hnw.streamlit.app/).
-
-## Also to be found on Hugging Face
-
+## To be Found on Hugging Face
 Check out our Hugging Face link too [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
+
+
+
+## Created Streamlit App Link
+Check it out on Streamlit app [here](https://aaaaapy-k3wmklu2vavbzh6ksdfbgh.streamlit.app/).
+
+
 
 
