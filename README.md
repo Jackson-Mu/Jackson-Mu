@@ -1,5 +1,3 @@
-
-```markdown
 🌟 Welcome to Jackson Github Page! 🌟
 
 👋 Hi there! I’m Jackson, an enthusiastic explorer in the realms of Data Science, Software Engineering, and Sales Engineering. I thrive on the challenge of turning data into actionable insights and building robust software solutions.
@@ -18,10 +16,13 @@
 
 🌍 Fun fact: Just like a chef combines ingredients to create a culinary masterpiece, I combine data and code to craft solutions that help us understand and improve our world!
 
+
 ## Created Streamlit App Link
 
-Check out my Streamlit app [here](https://fifa2022quatarpy-l9aocsw6pzmcuwnfap5hnw.streamlit.app/).
+Check it out on Streamlit app [here](https://fifa2022quatarpy-l9aocsw6pzmcuwnfap5hnw.streamlit.app/).
 
 ## Also to be found on Hugging Face
 
-Explore my Hugging Face space [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
+Check out our Hugging Face link too [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
+
+
