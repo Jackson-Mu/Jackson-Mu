@@ -1,4 +1,4 @@
-🌟 Welcome to Jackson Github Page! 🌟
+🌟 Welcome to Jackson's Github Page! 🌟
 
 👋 Hi there! I’m Jackson, an enthusiastic explorer in the realms of Data Science, Software Engineering, and Sales Engineering. I thrive on the challenge of turning data into actionable insights and building robust software solutions.
 
