@@ -25,7 +25,7 @@ Check out our Hugging Face link too [here](https://huggingface.co/spaces/Jackson
 ## Created Streamlit App Link
 Check it out on Streamlit app [here](https://aaaaapy-k3wmklu2vavbzh6ksdfbgh.streamlit.app/).
 
-##Check Jackson's current HTML Portfolio
+## Check Jackson's current HTML Portfolio
 check it out [here](https://jackson-mu.github.io/Current_html_Portfolio/).
 
 
