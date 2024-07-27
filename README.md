@@ -20,10 +20,13 @@
 ## To be Found on Hugging Face
 Check out our Hugging Face link too [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
 
+## Website Design Sample
+
+Check out my website design work created using Canva:
+
+[Website Design Sample](https://jacksonaholtel.my.canva.site/)
 
 
-## Created Streamlit App Link
-Check it out on Streamlit app [here](https://aaaaapy-k3wmklu2vavbzh6ksdfbgh.streamlit.app/).
 
 ## Check Jackson's current HTML Portfolio
 check it out [here](https://jackson-mu.github.io/Current_html_Portfolio/).
