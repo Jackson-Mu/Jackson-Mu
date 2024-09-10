@@ -18,7 +18,7 @@
 
 
 ## Check Jackson's Personal site
-check it out [here](https://jackson-mu.github.io/Portfolio_1/).
+check it out [here](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/).
 
 ## Find my work on Hugging Face
 Check out our Hugging Face link too [here](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis).
