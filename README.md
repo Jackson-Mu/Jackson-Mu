@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>👋 Hey there! I'm Jackson!</h1>
-  <p><em>Think of me as your friendly tech neighbor who turns numbers and code into cool stuff!</em></p>
+  <h1>👋 Hello! I'm Jackson!</h1>
+  <p><em>Your friendly tech buddy who turns numbers and code into cool things!</em></p>
 </div>
 
-### What's My Story? 🎬
+### My Journey 🎬
 
-Hi! I'm Jackson, and I love making technology work for everyone. Imagine having a huge puzzle - that's what I do with data and computers! I take complicated problems and turn them into simple, useful solutions that help people.
+Hi there! I'm Jackson, and I love making technology work for everyone. Imagine a giant puzzle - that's what I do with data and computers! I take tricky problems and turn them into simple, helpful solutions for people.
 
-### What I Love Doing 💪
+### What I Enjoy Doing 💪
 
-- 📊 Making sense of numbers and data (like finding patterns in your favorite football team's performance!)
-- 💻 Building websites and apps that make life easier
-- 🤝 Explaining tech stuff in simple words (no complicated jargon here!)
-- 🎨 Making websites look beautiful and easy to use
+- 📊 Making sense of numbers and data (like finding patterns in your favorite football team's games!)
+- 💻 Creating websites and apps that make life easier
+- 🤝 Explaining tech stuff in simple words (no techy talk here!)
+- 🎨 Designing websites that are beautiful and easy to use
 
-### Cool Projects I've Built 🌟
+### Cool Things I've Made 🌟
 
-1. 🌍 **My Digital Home** - [Check it out here!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
+1. 🌍 **My Digital Home** - [Visit here!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
    - It's like my online house where I show all my work
    
 2. ⚽ **World Cup 2022 Story** - [See the magic](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
@@ -25,7 +25,7 @@ Hi! I'm Jackson, and I love making technology work for everyone. Imagine having 
 3. 🎨 **My Art Gallery** - [Take a peek](https://jacksonaholtel.my.canva.site/)
    - Where I show off my website designs
 
-### Let's Be Friends! 🤝
+### Let's Connect! 🤝
 
 <div align="center">
 
