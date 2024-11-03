@@ -23,7 +23,7 @@ Hello! I'm Jackson, and I really like working with computers. Think of me as som
    - I made the World Cup fun with numbers!
    
 3. 🎨 **My Designs** - [Take a look!](https://jacksonaholtel.my.canva.site/)
-   - See the nice websites I made
+   - See the nice and simplest website Design I made
 
 ### Want to See More? 👀
 
