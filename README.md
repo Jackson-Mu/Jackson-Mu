@@ -29,7 +29,8 @@ Hi there! I'm Jackson, and I love making technology work for everyone. Imagine a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail)](mailto:mukesjackson02@gmail.com)
+[![Note App](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail)](![image](https://github.com/user-attachments/assets/8e4528df-f7e8-4596-b465-bba05cc2713e)
+)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Come%20Visit!-blue?style=for-the-badge&logo=github)](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
 [![HuggingFace](https://img.shields.io/badge/Projects-Take%20a%20Look!-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
 
