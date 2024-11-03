@@ -30,7 +30,7 @@ Hi there! I'm Jackson, and I love making technology work for everyone. Imagine a
 <div align="center">
 
 
-[![Note Taker](https://img.shields.io/badge/Portfolio-Come%20Visit!-blue?style=for-the-badge&logo=github)](https://wyz4xd.csb.app/)
+[![Note Taker](https://img.shields.io/badge/Note Taker-Just%20Try!-green?style=for-the-badge&logo=keeper)](https://wyz4xd.csb.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Come%20Visit!-blue?style=for-the-badge&logo=github)](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
 [![HuggingFace](https://img.shields.io/badge/Projects-Take%20a%20Look!-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
 
