@@ -19,7 +19,7 @@ I'm Jackson, and who really likes working with computers, but let me be real —
 1. 🏠 **My Website** - [Come see!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
    - This is where I show my work
    
-2. ⚽ **Football Project** - [Look here!](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
+2. ⚽ **Football Project** - [Look here!](https://fifa2022quatarpy-hmvrzv7bmjycqpkrftxtbl.streamlit.app/)
    - I made the World Cup fun with numbers!
    
 3. 🎨 **My Designs** - [Take a look!](https://jacksonaholtel.my.canva.site/)
@@ -31,7 +31,7 @@ I'm Jackson, and who really likes working with computers, but let me be real —
 
 [![Note Taker](https://img.shields.io/badge/Note_Taker-Try_it!-green?style=for-the-badge&logo=github)](https://wyz4xd.csb.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20me!-blue?style=for-the-badge&logo=github)](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
-[![HuggingFace](https://img.shields.io/badge/Projects-Look%20here!-yellow?style=for-the-badge&logo=github)](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
+[![Streamlit](https://img.shields.io/badge/Projects-Look%20here!-red?style=for-the-badge&logo=github)](https://fifa2022quatarpy-hmvrzv7bmjycqpkrftxtbl.streamlit.app/)
 
 </div>
 
