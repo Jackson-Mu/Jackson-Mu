@@ -5,7 +5,7 @@
 
 ### My Story 📖
 
-I'm Jackson, and who really likes working with computers. Think of me as someone who loves to solve puzzles and help people with technology. Simple as that! 
+I'm Jackson, and who really likes working with computers, but let me be real — football is my real first love. Think of me as someone who loves to solve usual everday world challenges we face with technology. Simple as that! 
 
 ### Things I Love to Do ⭐
 
