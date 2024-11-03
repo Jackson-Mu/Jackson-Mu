@@ -29,7 +29,7 @@ Hello! I'm Jackson, and I really like working with computers. Think of me as som
 
 <div align="center">
 
-[![Note Taker](https://img.shields.io/badge/Note Taker-Try%20it!-green?style=for-the-badge&logo=github)](https://wyz4xd.csb.app/)
+[![Note Taker](https://img.shields.io/badge/Note_Taker-Try_it!-green?style=for-the-badge&logo=github)](https://wyz4xd.csb.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20me!-blue?style=for-the-badge&logo=github)](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
 [![HuggingFace](https://img.shields.io/badge/Projects-Look%20here!-yellow?style=for-the-badge&logo=github)](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
 
