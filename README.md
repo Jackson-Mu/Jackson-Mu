@@ -1,46 +1,45 @@
 <div align="center">
-  <h1>👋 Hello! I'm Jackson!</h1>
-  <p><em>Your friendly tech buddy who turns numbers and code into cool things!</em></p>
+  <h1>👋 Hi! I'm Jackson!</h1>
+  <p><em>I love making computers do cool things!</em></p>
 </div>
 
-### My Journey 🎬
+### My Story 📖
 
-Hi there! I'm Jackson, and I love making technology work for everyone. Imagine a giant puzzle - that's what I do with data and computers! I take tricky problems and turn them into simple, helpful solutions for people.
+Hello! I'm Jackson, and I really like working with computers. Think of me as someone who loves to solve puzzles and help people with technology. Simple as that! 
 
-### What I Enjoy Doing 💪
+### Things I Love to Do ⭐
 
-- 📊 Making sense of numbers and data (like finding patterns in your favorite football team's games!)
-- 💻 Creating websites and apps that make life easier
-- 🤝 Explaining tech stuff in simple words (no techy talk here!)
-- 🎨 Designing websites that are beautiful and easy to use
+- 📊 Making numbers tell fun stories
+- 💻 Building websites that are easy to use
+- 🤝 Helping people understand computers
+- 🎨 Making pretty websites that work well
 
-### Cool Things I've Made 🌟
+### Cool Things I Made 🎈
 
-1. 🌍 **My Digital Home** - [Visit here!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
-   - It's like my online house where I show all my work
+1. 🏠 **My Website** - [Come see!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
+   - This is where I show my work
    
-2. ⚽ **World Cup 2022 Story** - [See the magic](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
-   - Ever wondered what made the World Cup special? I broke it down!
+2. ⚽ **Football Project** - [Look here!](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
+   - I made the World Cup fun with numbers!
    
-3. 🎨 **My Art Gallery** - [Take a peek](https://jacksonaholtel.my.canva.site/)
-   - Where I show off my website designs
+3. 🎨 **My Designs** - [Take a look!](https://jacksonaholtel.my.canva.site/)
+   - See the nice websites I made
 
-### Let's See! 🤝
+### Want to See More? 👀
 
 <div align="center">
 
-
-[![Note Taker](https://img.shields.io/badge/Note Taker-Just%20Try!-green?style=for-the-badge&logo=keeper)](https://wyz4xd.csb.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Come%20Visit!-blue?style=for-the-badge&logo=github)](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
-[![HuggingFace](https://img.shields.io/badge/Projects-Take%20a%20Look!-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
+[![Note Taker](https://img.shields.io/badge/Note Taker-Try%20it!-green?style=for-the-badge&logo=github)](https://wyz4xd.csb.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20me!-blue?style=for-the-badge&logo=github)](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
+[![HuggingFace](https://img.shields.io/badge/Projects-Look%20here!-yellow?style=for-the-badge&logo=github)](https://huggingface.co/spaces/JacksonMu/FIFA-World-Cup-2022-Data-Analysis)
 
 </div>
 
 ### Fun Fact 🌟
 
-> "I'm like a digital chef - mixing data and code to cook up amazing digital solutions! And yes, sometimes I actually cook real food too! 🍳"
+> "I'm like a cook in the kitchen - but instead of food, I make fun things with computers! 🍳"
 
 ---
 <div align="center">
-  <i>Got an idea? Let's make it happen together! ✨</i>
+  <i>Have an idea? Let's make it together! ✨</i>
 </div>
