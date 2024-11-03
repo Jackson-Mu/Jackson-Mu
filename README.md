@@ -5,7 +5,7 @@
 
 ### My Story 📖
 
-Hello! I'm Jackson, and I really like working with computers. Think of me as someone who loves to solve puzzles and help people with technology. Simple as that! 
+I'm Jackson, and who really likes working with computers. Think of me as someone who loves to solve puzzles and help people with technology. Simple as that! 
 
 ### Things I Love to Do ⭐
 
