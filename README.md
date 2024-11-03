@@ -17,8 +17,8 @@ I'm Jackson, and who really likes working with computers, but let me be real —
 ### Cool Things I Made 🎈
 
 1. ⚽ **Football Project** - [Look here!](https://fifa2022quatarpy-hmvrzv7bmjycqpkrftxtbl.streamlit.app/)
-   - I made the World Cup fun with numbers!
-   - 
+   - I made the FIFA 2022 World Cup fun with numbers!
+     
 2. 🏠 **Portfolio** - [Come see!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/)
    - This is where I show my work
      
