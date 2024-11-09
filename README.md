@@ -5,7 +5,7 @@
 
 ### My Story 📖
 
-I'm Jackson, and who really likes working with computers, Think of me as someone who loves to solve usual everday society challenges with technology. Simple as that! But let me be real — I would rather watch my favorite football game than doing anything else.
+I'm Jackson, and who really likes working with computers, Think of me as someone who loves to practice on making our life easier with computer. Simple as that! But let me be real — I would rather watch my favorite football game than being on computer.
 
 ### Things I Love to Do ⭐
 
