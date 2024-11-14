@@ -37,7 +37,7 @@ I'm Jackson, and who really likes working with computers, Think of me as someone
 
 ### Fun Fact 🌟
 
-> "I'm like a cook in the kitchen - but instead of food, I make fun things with computers! 🍳"
+> "I'm like a cook in the kitchen - but instead of food, I make cool useful things with computers! 🍳"
 
 ---
 <div align="center">
