@@ -5,7 +5,9 @@
 
 ### My Story 📖
 
-I'm Jackson, and who really likes working with computers, Think of me as someone who loves to practice on making our life easier with computer. Simple as that! But let me be real — I would rather watch my favorite football/basketball/volleyball game than being on computer.
+Hi, I’m Jackson! I love using computers to make life simpler — that’s my thing.
+
+But honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
 
 ### Things I Love to Do ⭐
 
