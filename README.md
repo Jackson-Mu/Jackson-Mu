@@ -14,7 +14,7 @@ But honestly, if there’s a good football, basketball, or volleyball game on, I
 - 📊 Making numbers tell fun stories
 - 💻 Building websites that are easy to use
 - 🤝 Helping people understand computers
-- 🎨 Making pretty websites that work well
+- 🎨 Making pretty tools that work well
 
 ### Cool Things I Made 🎈
 
