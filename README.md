@@ -12,8 +12,7 @@ But honestly, if there’s a good football, basketball, or volleyball game on, I
 ### Things I Love to Do ⭐
 
 - 📊 Making numbers tell fun stories
-- 💻 Building websites that are easy to use
-- 🤝 Helping people understand computers
+- 💻 Building things which are easy to use
 - 🎨 Making pretty tools that work well
 
 
@@ -24,10 +23,10 @@ But honestly, if there’s a good football, basketball, or volleyball game on, I
    - I made the FIFA 2022 World Cup fun with numbers!
 
 2. 🏠 **Portfolio** - <!-- [Come see!](https://jackson-mu.github.io/Jackson-Mukeshimana-Portfolio/) -->
-   - This is where I show my work
+   - This is where I will ......
 
 3. 🎨 **My Designs** - [Take a look!](https://jacksonaholtel.my.canva.site/)
-   - See the nice and simplest website Design I made
+   - See simplest website Design I made
 
 ### Want to See More? 👀
 
