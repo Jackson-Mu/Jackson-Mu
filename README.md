@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi! I'm Jackson!</h1>
-  <p><em>I love using computers to make life simpler — that’s my thing.!</em></p>
+  <p><em>I love using computers to make life simpler — that’s my thing.</em></p>
 </div>
 
 ### Reality Check 📖
