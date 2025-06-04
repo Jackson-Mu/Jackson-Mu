@@ -8,6 +8,11 @@
 
 But honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
 
+👨‍💻 Turning ideas into fast, functional apps — front to back.  
+⚡ Supabase-powered. UI polished. Response time under 500ms.  
+🛠️ I fix without breaking. I build without bloating.  
+💡 Code that clicks — for users *and* devs.
+
 
 ## 🎯 Visionary Coder With a Rwandan Heartbeat
 
