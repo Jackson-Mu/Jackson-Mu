@@ -50,5 +50,5 @@ Feel free to reach out for collaborations, questions, or football talk:
 
 ---
 <div align="center">
-  <i>Have an idea? Let's make it together! ✨</i>
+  <i>Have an idea? Let's make it together! but only if I am into it too. ✨</i>
 </div>
