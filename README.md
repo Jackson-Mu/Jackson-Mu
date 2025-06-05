@@ -22,7 +22,7 @@ But honestly, if there’s a good football, basketball, or volleyball game on, I
 Feel free to reach out for collaborations, questions, or football talk 
 
 ---
-### 🌟
+
 
 > *“Building for community. Coding for impact.”*
 
