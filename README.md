@@ -19,7 +19,7 @@ But honestly, if there’s a good football, basketball, or volleyball game on, I
 
 
 ### 📫 Let’s connect!
-Feel free to reach out for collaborations, questions, or football talk 
+Feel free to reach out for collaborations & questions.
 
 ---
 
