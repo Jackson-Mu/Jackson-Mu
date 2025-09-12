@@ -5,7 +5,7 @@
 
 
 
-### 🌟 What this boy does?
+### 🌟 What this man does?
 
 👨‍💻 Turning ideas into fast, functional apps — front to back.  
 ⚡ Firebase & Supabase, -powered. UI polished. Response time under 500ms.  
