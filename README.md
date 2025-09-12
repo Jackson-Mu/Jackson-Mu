@@ -3,10 +3,7 @@
   <p><em>I love using computers to make life simpler — that’s my thing.</em></p>
 </div>
 
-### Reality Check 📖
 
-
-But honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
 
 ### 🌟 What this boy does?
 
@@ -15,7 +12,10 @@ But honestly, if there’s a good football, basketball, or volleyball game on, I
 🛠️ I fix without breaking. I build without bloating.  
 💡 Code that clicks — for users.
 
+### Reality Check 📖
 
+
+But honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
 
 
 ### 📫 Let’s connect!
