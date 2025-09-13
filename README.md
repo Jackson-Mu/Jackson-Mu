@@ -15,7 +15,7 @@
 
 ---
 
-> *“Building for community. Coding for impact.”*
+> *“Building for community.”*
 
 > "I'm like a cook in the kitchen - but instead of food, I make cool useful non-physical things with computers! 🍳"
 
