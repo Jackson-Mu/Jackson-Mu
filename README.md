@@ -27,5 +27,5 @@
 ### Reality Check 📖
 
 
-But honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
+Honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
 
