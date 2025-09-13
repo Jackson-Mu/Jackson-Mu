@@ -12,24 +12,22 @@
 🛠️ I fix without breaking. I build without bloating.  
 💡 Code that clicks — for users.
 
+
+---
+
+> *“Building for community. Coding for impact.”*
+
+> "I'm like a cook in the kitchen - but instead of food, I make cool useful non-physical things with computers! 🍳"
+
+---
+
+
+<div align="center">
+  <i>Have an idea? Let's make it together! but only if I am into it too. ✨</i>
+</div>
+
 ### Reality Check 📖
 
 
 But honestly, if there’s a good football, basketball, or volleyball game on, I’ll watch it first, the computer might have to wait. Or I’ll do both at the same time — who says I can’t multitask?
 
-
-### 📫 Let’s connect!
-Feel free to reach out for collaborations & questions.
-
----
-
-
-> *“Building for community. Coding for impact.”*
-
-
-> "I'm like a cook in the kitchen - but instead of food, I make cool useful non-physical things with computers! 🍳"
-
----
-<div align="center">
-  <i>Have an idea? Let's make it together! but only if I am into it too. ✨</i>
-</div>
