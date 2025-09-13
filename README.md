@@ -8,7 +8,7 @@
 ### 🌟 What this man does?
 
 👨‍💻 Turning ideas into fast, functional apps — front to back.  
-⚡ Firebase & Supabase, -powered. UI polished. Response time under 500ms.  
+⚡ Firebase & Supabase, -powered. UI polished. Response time under 200ms.  
 🛠️ I fix without breaking. I build without bloating.  
 💡 Code that clicks — for users.
 
